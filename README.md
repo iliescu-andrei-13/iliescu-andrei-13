@@ -123,25 +123,6 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=AndreiIliescu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AndreiIliescu&theme=dark&hide_border=false)<br/>
-
-<br>
-
-<h2 align="left">🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=AndreiIliescu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-<h2 align="left">🔝 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕖𝕕 ℝ𝕖𝕡𝕠</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=AndreiIliescu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<br>
-
 <h1 align="center">👋🏻 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕤𝕥𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 👋🏻</h1>
 
 <div align="center">
